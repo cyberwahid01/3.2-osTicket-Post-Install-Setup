@@ -23,7 +23,7 @@ In this section I go through the process of setting up the "Company" Helpdesk St
 
 <h2>Installation, Setup, Resource Setup, Executing Functions</h2>
 
-1. After successfully installing osTicket, below we can see our Agent/Admin Panel on the left and the User Panel on the right. The Agent and Admin panels are used by the organisation internally to configure the Helpdesk structure, communicate and work through tickets. The "Support Center" or User Panel is used by the end user (whether this is an end-user as a customer or an internal department user) to create a support request and communicate with the agent dealing with their request.
+1. After successfully installing osTicket, below we can see our Agent/Admin Panel on the left and the User Panel on the right. The Agent and Admin Panels are used by the organisation internally to configure the Helpdesk structure, communicate and work through tickets. The "Support Center" or User Panel is used by the end user (whether this is an end-user as a customer or an internal department user) to create a support request and communicate with the agent dealing with their request.
 </p>
 <br />
 
@@ -31,23 +31,7 @@ In this section I go through the process of setting up the "Company" Helpdesk St
 <img src="https://imgur.com/pcdKKpB.png" alt="Image"/>
 </p>
 <p>
-2. 
-</p>
-<br />
-
-<p>
-<img src="https://imgur.com/8cDPzm4.png" alt="Image"/>
-</p>
-<p>
-3. 
-</p>
-<br />
-
-<p>
-<img src="https://imgur.com/9JVjwZp.png" alt="Image"/>
-</p>
-<p>
-4. 
+2. Within the Admin Panel, I configured permissions for the Main Admin in the Admin Panel. This allows this specific Agent to undertake the chosen tasks in the image. An Admin User who has access to this section can choose what permissions to give a certain Agent, depending on different factors such as their department, or position within the company. 
 </p>
 <br />
 
@@ -55,7 +39,7 @@ In this section I go through the process of setting up the "Company" Helpdesk St
 <img src="https://imgur.com/FEUltAL.png" alt="Image"/>
 </p>
 <p>
-5. 
+3. In this section we can see the Departments that are currently configured within our organisation. There are only 2 Departments so far which we can see are Maintenance and Support.
 </p>
 <br />
 
@@ -63,7 +47,7 @@ In this section I go through the process of setting up the "Company" Helpdesk St
 <img src="https://imgur.com/8V2Wn5n.png" alt="Image"/>
 </p>
 <p>
-6. 
+4. Below I created a Top Level Department for SysAdmins and assigned a Manager.
 </p>
 <br />
 
@@ -71,7 +55,7 @@ In this section I go through the process of setting up the "Company" Helpdesk St
 <img src="https://imgur.com/loJRTQo.png" alt="Image"/>
 </p>
 <p>
-7. 
+5. Next I created a Team called Finance.
 </p>
 <br />
 
@@ -79,7 +63,7 @@ In this section I go through the process of setting up the "Company" Helpdesk St
 <img src="https://imgur.com/TUzWyCl.png" alt="Image"/>
 </p>
 <p>
-8. 
+6. In this section I configured the settings to not have to allow End-Users to register in order to create a ticket. This would be ideal as it would allow customers and end-users to easily request support with little friction or having to create an account.
 </p>
 <br />
 
@@ -87,7 +71,7 @@ In this section I go through the process of setting up the "Company" Helpdesk St
 <img src="https://imgur.com/XC5fISn.png" alt="Image"/>
 </p>
 <p>
-9. 
+7. 
 </p>
 <br />
 
@@ -95,7 +79,7 @@ In this section I go through the process of setting up the "Company" Helpdesk St
 <img src="https://imgur.com/MaY2FqO.png" alt="Image"/>
 </p>
 <p>
-10. 
+8. 
 </p>
 <br />
 
@@ -103,7 +87,7 @@ In this section I go through the process of setting up the "Company" Helpdesk St
 <img src="https://imgur.com/icRncWi.png" alt="Image"/>
 </p>
 <p>
-11. 
+9. 
 </p>
 <br />
 
@@ -111,7 +95,7 @@ In this section I go through the process of setting up the "Company" Helpdesk St
 <img src="https://imgur.com/yziscbe.png" alt="Image"/>
 </p>
 <p>
-12. 
+10. 
 </p>
 <br />
 
@@ -119,7 +103,7 @@ In this section I go through the process of setting up the "Company" Helpdesk St
 <img src="https://imgur.com/o9qpN5G.png" alt="Image"/>
 </p>
 <p>
-13. 
+11. 
 </p>
 <br />
 
@@ -127,7 +111,7 @@ In this section I go through the process of setting up the "Company" Helpdesk St
 <img src="https://imgur.com/yNEdnzi.png" alt="Image"/>
 </p>
 <p>
-14. 
+12. 
 </p>
 <br />
 
@@ -135,7 +119,7 @@ In this section I go through the process of setting up the "Company" Helpdesk St
 <img src="https://imgur.com/bdP5hBg.png" alt="Image"/>
 </p>
 <p>
-15. 
+13. 
 </p>
 <br />
 
