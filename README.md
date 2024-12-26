@@ -23,7 +23,7 @@ In this section I go through the process of setting up the "Company" Helpdesk St
 
 <h2>Installation, Setup, Resource Setup, Executing Functions</h2>
 
-1. 
+1. After successfully installing osTicket, below we can see our Agent/Admin Panel on the left and the User Panel on the right. The Agent and Admin panels are used by the organisation internally to configure the Helpdesk structure, communicate and work through tickets. The "Support Center" or User Panel is used by the end user (whether this is an end-user as a customer or an internal department user) to create a support request and communicate with the agent dealing with their request.
 </p>
 <br />
 
