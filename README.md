@@ -71,7 +71,7 @@ In this section I go through the process of setting up the "Company" Helpdesk St
 <img src="https://imgur.com/XC5fISn.png" alt="Image"/>
 </p>
 <p>
-7. 
+7. At this stage I created an Agent and assigned an email address to them. Permissions, teams and access were assigned to each Agent at a later stage. 
 </p>
 <br />
 
@@ -79,7 +79,7 @@ In this section I go through the process of setting up the "Company" Helpdesk St
 <img src="https://imgur.com/MaY2FqO.png" alt="Image"/>
 </p>
 <p>
-8. 
+8. Next I created a User and inputted information into the following fields. 
 </p>
 <br />
 
@@ -87,7 +87,7 @@ In this section I go through the process of setting up the "Company" Helpdesk St
 <img src="https://imgur.com/icRncWi.png" alt="Image"/>
 </p>
 <p>
-9. 
+9. Below is our User created with the displayed details.
 </p>
 <br />
 
@@ -95,7 +95,7 @@ In this section I go through the process of setting up the "Company" Helpdesk St
 <img src="https://imgur.com/yziscbe.png" alt="Image"/>
 </p>
 <p>
-10. 
+10. Next I created custom SLA Agreements. Creating SLA Agreements (Service Level Agreements Agreements) allow Agents to assign prioritise and categorise different tickets based on the level of service required to complete them. 
 </p>
 <br />
 
@@ -103,7 +103,7 @@ In this section I go through the process of setting up the "Company" Helpdesk St
 <img src="https://imgur.com/o9qpN5G.png" alt="Image"/>
 </p>
 <p>
-11. 
+11. Here we can see our SLA Agreements labeled as A, B and C and assigned with different grace periods in hours.
 </p>
 <br />
 
@@ -111,7 +111,7 @@ In this section I go through the process of setting up the "Company" Helpdesk St
 <img src="https://imgur.com/yNEdnzi.png" alt="Image"/>
 </p>
 <p>
-12. 
+12. Help Topics are categories that End-Users can choose to assign their Support Requests to. This helps Agents understand the End-Users problems better and work through tickets more efficiently.
 </p>
 <br />
 
@@ -119,7 +119,7 @@ In this section I go through the process of setting up the "Company" Helpdesk St
 <img src="https://imgur.com/bdP5hBg.png" alt="Image"/>
 </p>
 <p>
-13. 
+13. This is a list of possible Help Topics that represent categories of problems that End-Users may be experiencing. 
 </p>
 <br />
 
