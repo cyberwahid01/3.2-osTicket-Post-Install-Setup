@@ -28,7 +28,7 @@ In this section I go through the process of setting up the "Company" Helpdesk St
 <br />
 
 <p>
-<img src=".png" alt="Image"/>
+<img src="https://imgur.com/pcdKKpB.png" alt="Image"/>
 </p>
 <p>
 2. 
@@ -36,7 +36,7 @@ In this section I go through the process of setting up the "Company" Helpdesk St
 <br />
 
 <p>
-<img src=".png" alt="Image"/>
+<img src="https://imgur.com/8cDPzm4.png" alt="Image"/>
 </p>
 <p>
 3. 
@@ -44,7 +44,7 @@ In this section I go through the process of setting up the "Company" Helpdesk St
 <br />
 
 <p>
-<img src=".png" alt="Image"/>
+<img src="https://imgur.com/9JVjwZp.png" alt="Image"/>
 </p>
 <p>
 4. 
@@ -52,7 +52,7 @@ In this section I go through the process of setting up the "Company" Helpdesk St
 <br />
 
 <p>
-<img src=".png" alt="Image"/>
+<img src="https://imgur.com/FEUltAL.png" alt="Image"/>
 </p>
 <p>
 5. 
@@ -60,7 +60,7 @@ In this section I go through the process of setting up the "Company" Helpdesk St
 <br />
 
 <p>
-<img src=".png" alt="Image"/>
+<img src="https://imgur.com/8V2Wn5n.png" alt="Image"/>
 </p>
 <p>
 6. 
@@ -68,7 +68,7 @@ In this section I go through the process of setting up the "Company" Helpdesk St
 <br />
 
 <p>
-<img src=".png" alt="Image"/>
+<img src="https://imgur.com/loJRTQo.png" alt="Image"/>
 </p>
 <p>
 7. 
@@ -76,7 +76,7 @@ In this section I go through the process of setting up the "Company" Helpdesk St
 <br />
 
 <p>
-<img src=".png" alt="Image"/>
+<img src="https://imgur.com/TUzWyCl.png" alt="Image"/>
 </p>
 <p>
 8. 
@@ -84,7 +84,7 @@ In this section I go through the process of setting up the "Company" Helpdesk St
 <br />
 
 <p>
-<img src=".png" alt="Image"/>
+<img src="https://imgur.com/XC5fISn.png" alt="Image"/>
 </p>
 <p>
 9. 
@@ -92,7 +92,7 @@ In this section I go through the process of setting up the "Company" Helpdesk St
 <br />
 
 <p>
-<img src=".png" alt="Image"/>
+<img src="https://imgur.com/MaY2FqO.png" alt="Image"/>
 </p>
 <p>
 10. 
@@ -100,7 +100,7 @@ In this section I go through the process of setting up the "Company" Helpdesk St
 <br />
 
 <p>
-<img src=".png" alt="Image"/>
+<img src="https://imgur.com/icRncWi.png" alt="Image"/>
 </p>
 <p>
 11. 
@@ -108,7 +108,7 @@ In this section I go through the process of setting up the "Company" Helpdesk St
 <br />
 
 <p>
-<img src=".png" alt="Image"/>
+<img src="https://imgur.com/yziscbe.png" alt="Image"/>
 </p>
 <p>
 12. 
@@ -116,7 +116,7 @@ In this section I go through the process of setting up the "Company" Helpdesk St
 <br />
 
 <p>
-<img src=".png" alt="Image"/>
+<img src="https://imgur.com/o9qpN5G.png" alt="Image"/>
 </p>
 <p>
 13. 
@@ -124,7 +124,7 @@ In this section I go through the process of setting up the "Company" Helpdesk St
 <br />
 
 <p>
-<img src=".png" alt="Image"/>
+<img src="https://imgur.com/yNEdnzi.png" alt="Image"/>
 </p>
 <p>
 14. 
@@ -132,7 +132,7 @@ In this section I go through the process of setting up the "Company" Helpdesk St
 <br />
 
 <p>
-<img src=".png" alt="Image"/>
+<img src="https://imgur.com/bdP5hBg.png" alt="Image"/>
 </p>
 <p>
 15. 
@@ -140,6 +140,6 @@ In this section I go through the process of setting up the "Company" Helpdesk St
 <br />
 
 <p>
-<img src=".png" alt="Image"/>
+<img src="https://imgur.com/1Skq7Wg.png" alt="Image"/>
 </p>
 <p>
