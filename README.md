@@ -4,6 +4,8 @@
 
 <h1>Ticketing Systems: osTicket Post-Install and Setup 🪟</h1>
 In this section I go through the process of setting up the "Company" Helpdesk Structure. This includes configuring roles, departments, teams, SLA configuration and help topics.
+
+(Link Back to Main Project Contents Page is at the Bottom of this Repo)
 <h2>Environments and Technologies Used</h2>
 
 - Lenovo Ideapad 5 Pro 16gb AMD Ryzen 7
@@ -127,3 +129,4 @@ In this section I go through the process of setting up the "Company" Helpdesk St
 <img src="https://imgur.com/1Skq7Wg.png" alt="Image"/>
 </p>
 <p>
+LINK BACK TO THE MAIN PROJECT CONTENTS PAGE - https://github.com/cyberwahid01/Azure-Compute-and-Networking
